@@ -17,7 +17,7 @@ This platform simplifies market data into visual insights and predictive trendli
 - User authentication
 - Portfolio tracking
 - Machine learning-based prediction
-- Deployment to cloud (Render + Vercel)
+- Trading within the app
 
 # Features
 
@@ -57,6 +57,8 @@ Full-stack stock analysis tool built with:
 
 ## How to Run
 
+Website: https://newstock-ten.vercel.app/
+
 ### Backend
 cd backend
 python -m uvicorn app.main:app --reload
@@ -79,10 +81,11 @@ TWELVE_DATA_API_KEY=your_api_key_here
 <img width="1877" height="978" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/0a79a381-8ec6-4871-a0dc-6d077e508581" />
 ## Ideal buy and sell prices
 <img width="1896" height="991" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/df3975e8-ac65-4395-a4f3-310243390e9b" />
-## Highlighted stock pattern trends and their names
+**Highlighted stock pattern trends and their names**
 <img width="1896" height="993" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/a763c372-ec72-4614-b0fd-f5379db27bc1" />
 <img width="1887" height="1002" alt="Screenshot 2026-02-19 062922" src="https://github.com/user-attachments/assets/04877763-25e0-41c0-b7e9-6e60755661ed" />
 <img width="1895" height="986" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b9bb2229-3c83-438e-9bff-e50e7bd83cff" />
+
 
 
 
